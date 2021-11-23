@@ -7,11 +7,11 @@
 </p> 
 <br>
 
-- Name = "𝓚𝓻𝓲𝓼𝓱𝓷𝓪 𝓚𝓾𝓶𝓪𝓻"
+- Name = "𝓕𝓪𝓲𝔃𝓪𝓷 𝓼𝓪𝔂𝓮𝓭"
 
-- Class = "11th"
+- Class = "12th"
 
-- Age = "16"
+- Age = "17"
 
 - Country = "🇮🇳"
 
@@ -22,13 +22,13 @@
 <br>
   
 ----
-![GitHub followers](https://img.shields.io/github/followers/LEGEND-OS?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=LEGEND-OS.LEGEND-OS)
-[![Profile views](https://komarev.com/ghpvc/?username=LEGEND-OS&label=Profile%20views)](https://github.com/LEGEND-OS)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=LEGEND-OS)
+![GitHub followers](https://img.shields.io/github/followers/MASTER-OS?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=MASTER-OS.MASTER-OS)
+[![Profile views](https://komarev.com/ghpvc/?username=MASTER-OS&label=Profile%20views)](https://github.com/MASTER-OS)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=MASTER-OS)
   
-<a href="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
-    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
+<a href="https://github-readme-stats.vercel.app/api?username=MASTER-OS&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=MASTER-OS&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 
 </a>
 </b></h2>  
@@ -39,8 +39,8 @@
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-OS&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-OS&layout=compact&theme=midnight-purple&hide=Css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MASTER-OS&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASTER-OS&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
 </b></h2>  
 </details>
@@ -52,7 +52,7 @@
   <br>
   
   
-[![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](Krishna045Jaiswal@gmail.com)</b></h2>
+[![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](botmaster525@gmail.com)</b></h2>
 </details>
 
 
@@ -63,7 +63,7 @@
   <br>
   <br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Legend_Mr_Hacker) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Its_LegendBoy) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Its_LegendBoy) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Its_LegendBoy)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@KrishnaJaiswal1)</b></h2> 
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Legend_Mr_Hacker) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/DEVILBOY_OP) [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://replit.com/@DEVILBOTOP/MASTERBOT )</b></h2> 
 </details>
 <details>
 <summary>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐</summary>
@@ -95,7 +95,7 @@
 </details>
 
 ----
-[![Metrics](https://metrics.lecoq.io/LEGEND-OS?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/The_LegendBoy)
+[![Metrics](https://metrics.lecoq.io/MASTER-OS?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/DEVILBOY_OP)
 ----
 
 ## 🎵 Now playing
