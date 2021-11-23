@@ -1,6 +1,4 @@
-
- 
- ​<h2 align="center"><b> ⠐Personal Information ⠐ </b></h2> 
+ <h2 align="center"><b> ⠐Personal Information ⠐ </b></h2> 
   
  ​<p align='Middle'><a href='https://t.me/Its_LegendBoy'><img src='https://te.legra.ph/file/db6bd5d36b35140d562b5.jpg' width='750"'></a></p> 
   
@@ -97,4 +95,4 @@
  ​</details> 
   
  ​---- 
- ​[![​Metrics​](https://metrics.lecoq.io/LEGEND-OS?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/The_LegendBoy)
+ ​[![​Metrics​](https://metrics.lecoq.io/MASTER-OS?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/The_LegendBoy)
